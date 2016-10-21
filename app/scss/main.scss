@@ -1,0 +1,15 @@
+@import "vendor";
+@import "theme";
+
+html, body {
+  width: 100%;
+  height: 100%;
+}
+
+body {
+  background-color: $brand-second;
+}
+
+h1 {
+  color: $brand-black;
+}
